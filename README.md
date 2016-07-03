@@ -1,2 +1,10 @@
-# Shiva---Ghost-Theme-Doc
-Documentation of Shiva Ghost Theme
+# Shiva---Ghost-Theme-Documentation
+
+### Demo
+http://shiva-malvouz.rhcloud.com/
+
+### Post Type
+There are two types of post:
+
+### Gallery Post
+
