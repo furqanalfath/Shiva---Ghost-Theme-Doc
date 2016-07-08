@@ -4,14 +4,14 @@ http://shiva-malvouz.rhcloud.com/
 ### Post Type
 There are four (4) types of post:
 
-1. Standard Post (http://shiva-malvouz.rhcloud.com/i-got-all-i-need-when-i-got-you/)
+1. Standard Post (ex: http://shiva-malvouz.rhcloud.com/i-got-all-i-need-when-i-got-you/)
 
-2. Gallery Post (http://shiva-malvouz.rhcloud.com/food-fest/)
+2. Gallery Post (ex: http://shiva-malvouz.rhcloud.com/food-fest/)
 
-3. Code Post (http://shiva-malvouz.rhcloud.com/learnjqueryfrombasic/)
+3. Code Post (ex: http://shiva-malvouz.rhcloud.com/learnjqueryfrombasic/)
 
 
-4. Quote Post (http://shiva-malvouz.rhcloud.com/why-you-are-the-source-of-all-your-problems/)
+4. Quote Post (ex: http://shiva-malvouz.rhcloud.com/why-you-are-the-source-of-all-your-problems/)
 
 ### Standard Post
 
