@@ -1,6 +1,15 @@
 ### Demo
 http://shiva-malvouz.rhcloud.com/
 
+### Description
+This is for Ghost Theme platform. Ghost is a free and open source platform. You can download at https://ghost.org/download/ or asking your hosting provider if they support ghost platform or not.
+
+### Installation
+For installation for Ghost, please refer to http://support.ghost.org/installation/ Just to make sure Ghost need Node.js version 0.10.X. DO NOT download latest version of node.js, because it wont work.
+
+For installing theme, copy download packet and paste into /content/themes/.
+
+
 ### Post Type
 There are four (4) types of post:
 
