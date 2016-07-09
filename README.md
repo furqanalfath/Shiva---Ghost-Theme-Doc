@@ -1,4 +1,4 @@
-This file is documentation of Shiva Blog & Portfolio Ghost Theme.
+This file is documentation of Shiva Blog & Portfolio Ghost Theme. You can buy it from here https://themeforest.net/user/malvouz
 
 ------
 
