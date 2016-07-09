@@ -1,5 +1,7 @@
 This file is documentation of Shiva Blog & Portfolio Ghost Theme.
 
+------
+
 ### Demo
 http://shiva-malvouz.rhcloud.com/
 
