@@ -3,7 +3,7 @@ This file is documentation of Shiva Blog & Portfolio Ghost Theme. You can buy it
 ------
 
 ### Demo
-http://shiva-malvouz.rhcloud.com/
+http://shiva.malvouz.com/
 
 ### Description
 This is for Ghost Theme platform. Ghost is a free and open source platform. You can download at https://ghost.org/download/ or asking your hosting provider if they support ghost platform or not.
